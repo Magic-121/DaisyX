@@ -1,5 +1,5 @@
 {
-  "name": "DaisyX",
+  "name": "Film provider",
   "description": "?",
   "keywords": [
     "telegram",
@@ -10,7 +10,7 @@
   ],
   "repository": "https://github.com/TeamDaisyX/DaisyX",
   "website": "daisyproject.studio",
-  "success_url": "t.me/DaisyXUpdates",
+  "success_url": "https://t.me/Updates_kannada_channels",
   "buildpacks": [
    {
      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
